@@ -4,3 +4,4 @@ git is fast and lightweight
 added by hari
 added by you
 SVN is outdated
+SVN was populor before git
