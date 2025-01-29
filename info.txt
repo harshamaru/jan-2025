@@ -1,3 +1,2 @@
 git is populor scm tool
 git is fast and lightweight 
-git is distributed version control system
